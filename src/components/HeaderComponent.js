@@ -106,7 +106,7 @@ export default class Header extends Component {
           </div>
         </Navbar>
 
-        <Jumbotron>
+        <Jumbotron color='black' >
             <div className="container">
                 <div className="row row-header">
                     <div className="col-12 col-sm-6">
